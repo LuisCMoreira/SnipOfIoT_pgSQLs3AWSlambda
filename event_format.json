@@ -1,0 +1,8 @@
+{
+  "search_name": "key identifier",
+  "search_host": "some_host_name",
+  "search_port": "5432",
+  "search_database": "some_database",
+  "search_user": "some_database_user",
+  "search_password": "some_database_password"
+}
